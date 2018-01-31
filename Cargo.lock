@@ -1,0 +1,4 @@
+[[package]]
+name = "rust_credstash"
+version = "0.1.0"
+
